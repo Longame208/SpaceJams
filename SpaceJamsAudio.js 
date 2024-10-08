@@ -1,0 +1,10 @@
+npm install peerjs @naudiodon/recorder
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crypto Spaces Audio Router</title>
+</head>
+<body>
+    <script src="bundle.js"></script>
+</body>
+</html>
